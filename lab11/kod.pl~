@@ -1,0 +1,24 @@
+zwierze(zaba).
+zwierze(traszka).
+zwierze(ropucha).
+zwierze(aksolotl).
+/*tu mamy plazy*/
+zwierze(waz).
+zwierze(jaszczurka).
+zwierze(zolw).
+zwierze(krokodyl).
+zwierze(aligator).
+/*tu gady*/
+zwierze(mrowka).
+zwierze(patyczak).
+zwierze(modliszka).
+zwierze(lisciec).
+/*tu mamy owady*/
+zwierze(pajak).
+zwierze(skorpion).
+/*tu mamy bezkregowce*/
+
+/*gatunki zwierzat*/
+gatunek(zaba,rogata).
+gatunek(zaba,szponiasta).
+

@@ -1,0 +1,6 @@
+zwierzaki piszemy jakie sa
+np zwierze(zaba)
+dajemy charakterystyczna rzecz dla np plazow gadow itd
+pozniej walimy funkcje taka co pokazuje ze np gadem jest jak ma kurwa costam
+pozniej lista gadow plazow itd
+komentarze
