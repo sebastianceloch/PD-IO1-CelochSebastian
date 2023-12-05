@@ -1,1 +1,2 @@
-# PD-IO1-CelochSebastian
+# Programowanie Logiczne - Prolog.
+Ćwiczenia z języka Prolog.
